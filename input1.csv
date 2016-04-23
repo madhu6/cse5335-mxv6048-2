@@ -1,0 +1,102 @@
+ID,CASRN,CASREGNO,ChemName
+1,50-00-0,50000,Formaldehyde
+2,50-01-1,50011,"Guanidine, hydrochloride (1:1)"
+3,50-21-5,50215,"Propanoic acid, 2-hydroxy-"
+4,50-32-8,50328,Benzo[a]pyrene
+5,50-33-9,50339,"3,5-Pyrazolidinedione, 4-butyl-1,2-diphenyl-"
+6,50-54-4,50544,"Cinchonan-9-ol, 6'-methoxy-, (9S)-, sulfate (2:1)"
+7,50-69-1,50691,D-Ribose
+8,50-70-4,50704,D-Glucitol
+9,50-71-5,50715,"2,4,5,6(1H,3H)-Pyrimidinetetrone"
+10,50-78-2,50782,"Benzoic acid, 2-(acetyloxy)-"
+11,50-79-3,50793,"Benzoic acid, 2,5-dichloro-"
+12,50-81-7,50817,L-Ascorbic acid
+13,50-84-0,50840,"Benzoic acid, 2,4-dichloro-"
+14,50-89-5,50895,Thymidine
+15,50-99-7,50997,D-Glucose
+16,51-17-2,51172,1H-Benzimidazole
+17,51-20-7,51207,"2,4(1H,3H)-Pyrimidinedione, 5-bromo-"
+18,51-21-8,51218,"2,4(1H,3H)-Pyrimidinedione, 5-fluoro-"
+19,51-28-5,51285,"Phenol, 2,4-dinitro-"
+20,51-35-4,51354,"L-Proline, 4-hydroxy-, (4R)-"
+21,51-44-5,51445,"Benzoic acid, 3,4-dichloro-"
+22,51-45-6,51456,1H-Imidazole-5-ethanamine
+23,51-46-7,51467,"1,3,6,8-Tetraazatricyclo[4.4.1.13,8]dodecane"
+24,51-48-9,51489,"L-Tyrosine, O-(4-hydroxy-3,5-diiodophenyl)-3,5-diiodo-"
+25,51-52-5,51525,"4(1H)-Pyrimidinone, 2,3-dihydro-6-propyl-2-thioxo-"
+26,51-64-9,51649,"Benzeneethanamine, .alpha.-methyl-, (.alpha.S)-"
+27,51-65-0,51650,"Phenylalanine, 4-fluoro-"
+28,51-66-1,51661,"Acetamide, N-(4-methoxyphenyl)-“
+29,51-74-1,51741,"1H-Imidazole-4-ethanamine, phosphate (1:2)"
+30,51-75-2,51752,"Ethanamine, 2-chloro-N-(2-chloroethyl)-N-methyl-"
+31,51-78-5,51785,"Phenol, 4-amino-, hydrochloride (1:1)"
+32,51-79-6,51796,"Carbamic acid, ethyl ester"
+33,51-80-9,51809,"Methanediamine, N,N,N',N'-tetramethyl-"
+34,51-93-4,51934,"Ethanaminium, N,N,N-trimethyl-, iodide (1:1)"
+35,52-51-7,52517,"1,3-Propanediol, 2-bromo-2-nitro-"
+36,52-52-8,52528,"Cyclopentanecarboxylic acid, 1-amino-"
+37,52-89-1,52891,"L-Cysteine, hydrochloride (1:1)"
+38,52-90-4,52904,L-Cysteine
+39,53-03-2,53032,"Pregna-1,4-diene-3,11,20-trione, 17,21-dihydroxy-"
+40,53-16-7,53167,"Estra-1,3,5(10)-trien-17-one, 3-hydroxy-"
+41,53-70-3,53703,"Dibenz[a,h]anthracene"
+42,53-96-3,53963,"Acetamide, N-9H-fluoren-2-yl-"
+43,54-11-5,54115,"Pyridine, 3-[(2S)-1-methyl-2-pyrrolidinyl]-"
+44,54-12-6,54126,Tryptophan
+45,54-21-7,54217,"Benzoic acid, 2-hydroxy-, sodium salt (1:1)"
+46,54-42-2,54422,"Uridine, 2'-deoxy-5-iodo-"
+47,54-85-3,54853,"4-Pyridinecarboxylic acid, hydrazide"
+48,54-86-4,54864,"3-Pyridinecarboxylic acid, sodium salt (1:1)"
+49,54-95-5,54955,"5H-Tetrazolo[1,5-a]azepine, 6,7,8,9-tetrahydro-"
+50,55-10-7,55107,"Benzeneacetic acid, .alpha.,4-dihydroxy-3-methoxy-"
+51,55-18-5,55185,"Ethanamine, N-ethyl-N-nitroso-"
+52,55-21-0,55210,Benzamide
+53,55-22-1,55221,4-Pyridinecarboxylic acid
+54,55-55-0,55550,"Phenol, 4-(methylamino)-, sulfate (2:1)"
+55,55-63-0,55630,"1,2,3-Propanetriol, 1,2,3-trinitrate"
+56,55-68-5,55685,"Mercury, (nitrato-.kappa.O)phenyl-"
+57,55-81-2,55812,"Benzeneethanamine, 4-methoxy-"
+58,55-91-4,55914,"Phosphorofluoridic acid, bis(1-methylethyl) ester"
+59,56-04-2,56042,"4(1H)-Pyrimidinone, 2,3-dihydro-6-methyl-2-thioxo-"
+60,56-05-3,56053,"2-Pyrimidinamine, 4,6-dichloro-"
+61,56-06-4,56064,"4(3H)-Pyrimidinone, 2,6-diamino-"
+62,56-09-7,56097,"4(3H)-Pyrimidinone, 2-amino-6-hydroxy-"
+63,56-12-2,56122,"Butanoic acid, 4-amino-"
+64,56-17-7,56177,"Ethanamine, 2,2'-dithiobis-, hydrochloride (1:2)"
+65,56-18-8,56188,"1,3-Propanediamine, N1-(3-aminopropyl)-"
+66,56-23-5,56235,"Methane, tetrachloro-"
+67,56-33-7,56337,"Disiloxane, 1,1,3,3-tetramethyl-1,3-diphenyl-"
+68,56-34-8,56348,"Ethanaminium, N,N,N-triethyl-, chloride (1:1)"
+69,56-35-9,56359,"Distannoxane, 1,1,1,3,3,3-hexabutyl-"
+70,56-37-1,56371,"Benzenemethanaminium, N,N,N-triethyl-, chloride (1:1)"
+71,56-40-6,56406,Glycine
+72,56-41-7,56417,L-Alanine
+73,56-45-1,56451,L-Serine
+74,56-49-5,56495,"Benz[j]aceanthrylene, 1,2-dihydro-3-methyl-"
+75,56-53-1,56531,"Phenol, 4,4'-[(1E)-1,2-diethyl-1,2-ethenediyl]bis-"
+76,56-54-2,56542,"Cinchonan-9-ol, 6'-methoxy-, (9S)-"
+77,56-55-3,56553,Benz[a]anthracene
+78,56-65-5,56655,Adenosine 5'-(tetrahydrogen triphosphate)
+79,56-69-9,56699,"Tryptophan, 5-hydroxy-"
+80,56-73-5,56735,"D-Glucose, 6-(dihydrogen phosphate)"
+81,56-81-5,56815,"1,2,3-Propanetriol"
+82,56-82-6,56826,"Propanal, 2,3-dihydroxy-"
+83,56-84-8,56848,L-Aspartic acid
+84,56-85-9,56859,L-Glutamine
+85,56-86-0,56860,L-Glutamic acid
+86,56-87-1,56871,L-Lysine
+87,56-89-3,56893,L-Cystine
+88,56-92-8,56928,"1H-Imidazole-5-ethanamine, hydrochloride (1:2)"
+89,56-93-9,56939,"Benzenemethanaminium, N,N,N-trimethyl-, chloride (1:1)"
+90,57-00-1,57001,"Glycine, N-(aminoiminomethyl)-N-methyl-"
+91,57-03-4,57034,"1,2,3-Propanetriol, 1-(dihydrogen phosphate)"
+92,57-04-5,57045,"2-Propanone, 1-hydroxy-3-(phosphonooxy)-"
+93,57-06-7,57067,"1-Propene, 3-isothiocyanato-"
+94,57-09-0,57090,"1-Hexadecanaminium, N,N,N-trimethyl-, bromide (1:1)"
+95,57-10-3,57103,Hexadecanoic acid
+96,57-11-4,57114,Octadecanoic acid
+97,57-12-5,57125,Cyanide
+98,57-13-6,57136,Urea
+99,57-14-7,57147,"Hydrazine, 1,1-dimethyl-"
+100,57-15-8,57158,"2-Propanol, 1,1,1-trichloro-2-methyl-"
+101,58-63-9,58639,Inosine

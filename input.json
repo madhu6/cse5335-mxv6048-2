@@ -1,0 +1,608 @@
+[
+  {
+    "ID": 1,
+    "CASRN": "50-00-0",
+    "CASREGNO": 50000,
+    "ChemName": "Formaldehyde"
+  },
+  {
+    "ID": 2,
+       "CASRN": "50-01-1",
+    "CASREGNO": 50011,
+    "ChemName": "Guanidine, hydrochloride (1:1)"
+  },
+  {
+    "ID": 3,
+       "CASRN": "50-21-5",
+    "CASREGNO": 50215,
+    "ChemName": "Propanoic acid, 2-hydroxy-"
+  },
+  {
+    "ID": 4,
+        "CASRN": "50-32-8",
+    "CASREGNO": 50328,
+    "ChemName": "Benzo[a]pyrene"
+  },
+  {
+    "ID": 5,
+        "CASRN": "50-33-9",
+    "CASREGNO": 50339,
+    "ChemName": "3,5-Pyrazolidinedione, 4-butyl-1,2-diphenyl-"
+  },
+  {
+    "ID": 6,
+       "CASRN": "50-54-4",
+    "CASREGNO": 50544,
+    "ChemName": "Cinchonan-9-ol, 6'-methoxy-, (9S)-, sulfate (2:1)"
+  },
+  {
+    "ID": 7,
+       "CASRN": "50-69-1",
+    "CASREGNO": 50691,
+    "ChemName": "D-Ribose"
+  },
+  {
+    "ID": 8,
+        "CASRN": "50-70-4",
+    "CASREGNO": 50704,
+    "ChemName": "D-Glucitol"
+ },
+  {
+    "ID": 9,
+        "CASRN": "50-71-5",
+    "CASREGNO": 50715,
+    "ChemName": "2,4,5,6(1H,3H)-Pyrimidinetetrone"
+  },
+  {
+    "ID": 10,
+         "CASRN": "50-78-2",
+    "CASREGNO": 50782,
+    "ChemName": "Benzoic acid, 2-(acetyloxy)-"
+  },
+  {
+    "ID": 11,
+        "CASRN": "50-79-3",
+    "CASREGNO": 50793,
+    "ChemName": "Benzoic acid, 2,5-dichloro-"
+  },
+  {
+    "ID": 12,
+          "CASRN": "50-81-7",
+    "CASREGNO": 50817,
+    "ChemName": "L-Ascorbic acid"
+  },
+  {
+    "ID": 13,
+        "CASRN": "50-84-0",
+    "CASREGNO": 50840,
+    "ChemName": "Benzoic acid, 2,4-dichloro-"
+  },
+  {
+    "ID": 14,
+        "CASRN": "50-89-5",
+    "CASREGNO": 50895,
+    "ChemName": "Thymidine"
+  },
+  {
+    "ID": 15,
+        "CASRN": "50-99-7",
+    "CASREGNO": 50997,
+    "ChemName": "D-Glucose"
+  },
+  {
+    "ID": 16,
+         "CASRN": "51-17-2",
+    "CASREGNO": 51172,
+    "ChemName": "1H-Benzimidazole"
+  },
+  {
+    "ID": 17,
+        "CASRN": "51-20-7",
+    "CASREGNO": 51207,
+    "ChemName": "2,4(1H,3H)-Pyrimidinedione, 5-bromo-"
+  },
+  {
+    "ID": 18,
+        "CASRN": "51-21-8",
+    "CASREGNO": 51218,
+    "ChemName": "2,4(1H,3H)-Pyrimidinedione, 5-fluoro-"
+  },
+  {
+    "ID": 19,
+          "CASRN": "51-28-5",
+    "CASREGNO": 51285,
+    "ChemName": "Phenol, 2,4-dinitro-"
+  },
+  {
+"ID": 20,
+         "CASRN": "51-35-4",
+    "CASREGNO": 51354,
+    "ChemName": "L-Proline, 4-hydroxy-, (4R)-"
+  },
+  {
+    "ID": 21,
+        "CASRN": "51-44-5",
+    "CASREGNO": 51445,
+    "ChemName": "Benzoic acid, 3,4-dichloro-"
+  },
+  {
+    "ID": 22,
+         "CASRN": "51-45-6",
+    "CASREGNO": 51456,
+    "ChemName": "1H-Imidazole-5-ethanamine"
+  },
+  {
+    "ID": 23,
+       "CASRN": "51-46-7",
+    "CASREGNO": 51467,
+    "ChemName": "1,3,6,8-Tetraazatricyclo[4.4.1.13,8]dodecane"
+  },
+  {
+    "ID": 24,
+        "CASRN": "51-48-9",
+    "CASREGNO": 51489,
+    "ChemName": "L-Tyrosine, O-(4-hydroxy-3,5-diiodophenyl)-3,5-diiodo-"
+  },
+  {
+    "ID": 25,
+     "CASRN": "51-52-5",
+    "CASREGNO": 51525,
+    "ChemName": "4(1H)-Pyrimidinone, 2,3-dihydro-6-propyl-2-thioxo-"
+  },
+  {
+    "ID": 26,
+          "CASRN": "51-64-9",
+    "CASREGNO": 51649,
+    "ChemName": "Benzeneethanamine, .alpha.-methyl-, (.alpha.S)-"
+  },
+  {
+    "ID": 27,
+        "CASRN": "51-65-0",
+    "CASREGNO": 51650,
+    "ChemName": "Phenylalanine, 4-fluoro-"
+  },
+  {
+    "ID": 28,
+         "CASRN": "51-66-1",
+    "CASREGNO": 51661,
+    "ChemName": "Acetamide, N-(4-methoxyphenyl)-"
+  },
+  {
+    "ID": 29,
+        "CASRN": "51-74-1",
+    "CASREGNO": 51741,
+    "ChemName": "1H-Imidazole-4-ethanamine, phosphate (1:2)"
+  },
+  {
+    "ID": 30,
+   "CASRN": "51-75-2",
+    "CASREGNO": 51752,
+    "ChemName": "Ethanamine, 2-chloro-N-(2-chloroethyl)-N-methyl-"  
+  },
+  {
+    "ID": 31,
+          "CASRN": "51-78-5",
+    "CASREGNO": 51785,
+    "ChemName": "Phenol, 4-amino-, hydrochloride (1:1)"
+  },
+  {
+    "ID": 32,
+         "CASRN": "51-79-6",
+    "CASREGNO": 51796,
+    "ChemName": "Carbamic acid, ethyl ester"
+  },
+  {
+    "ID": 33,
+        "CASRN": "51-80-9",
+    "CASREGNO": 51809,
+    "ChemName": "Methanediamine, N,N,N',N'-tetramethyl-"
+  },
+  {
+    "ID": 34,
+        "CASRN": "51-93-4",
+    "CASREGNO": 51934,
+    "ChemName": "Ethanaminium, N,N,N-trimethyl-, iodide (1:1)"
+  },
+  {
+    "ID": 35,
+         "CASRN": "52-51-7",
+    "CASREGNO": 52517,
+    "ChemName": "1,3-Propanediol, 2-bromo-2-nitro-"
+  },
+  {
+    "ID": 36,
+       "CASRN": "52-52-8",
+    "CASREGNO": 52528,
+    "ChemName": "Cyclopentanecarboxylic acid, 1-amino-"
+  },
+  {
+    "ID": 37,
+       "CASRN": "52-89-1",
+    "CASREGNO": 52891,
+    "ChemName": "L-Cysteine, hydrochloride (1:1)"
+  },
+  {
+    "ID": 38,
+       "CASRN": "52-90-4",
+    "CASREGNO": 52904,
+    "ChemName": "L-Cysteine"
+  },
+  {
+    "ID": 39,
+       "CASRN": "53-03-2",
+    "CASREGNO": 53032,
+    "ChemName": "Pregna-1,4-diene-3,11,20-trione, 17,21-dihydroxy-"
+  },
+  {
+    "ID": 40,
+       "CASRN": "53-16-7",
+    "CASREGNO": 53167,
+    "ChemName": "Estra-1,3,5(10)-trien-17-one, 3-hydroxy-"
+  },
+  {
+    "ID": 41,
+       "CASRN": "53-70-3",
+    "CASREGNO": 53703,
+    "ChemName": "Dibenz[a,h]anthracene"
+  },
+  {
+    "ID": 42,
+       "CASRN": "53-96-3",
+    "CASREGNO": 53963,
+    "ChemName": "Acetamide, N-9H-fluoren-2-yl-"
+  },
+  {
+    "ID": 43,
+       "CASRN": "54-11-5",
+    "CASREGNO": 54115,
+    "ChemName": "Pyridine, 3-[(2S)-1-methyl-2-pyrrolidinyl]-"
+  },
+  {
+    "ID": 44,
+       "CASRN": "54-12-6",
+    "CASREGNO": 54126,
+    "ChemName": "Tryptophan"
+  },
+  {
+    "ID": 45,
+       "CASRN": "54-21-7",
+    "CASREGNO": 54217,
+    "ChemName": "Benzoic acid, 2-hydroxy-, sodium salt (1:1)"
+  },
+  {
+    "ID": 46,
+       "CASRN": "54-42-2",
+    "CASREGNO": 54422,
+    "ChemName": "Uridine, 2'-deoxy-5-iodo-"
+  },
+  {
+    "ID": 47,
+       "CASRN": "54-85-3",
+    "CASREGNO": 54853,
+    "ChemName": "4-Pyridinecarboxylic acid, hydrazide"
+  },
+  {
+    "ID": 48,
+       "CASRN": "54-86-4",
+    "CASREGNO": 54864,
+    "ChemName": "3-Pyridinecarboxylic acid, sodium salt (1:1)"
+  },
+  {
+    "ID": 49,
+       "CASRN": "54-95-5",
+    "CASREGNO": 54955,
+    "ChemName": "5H-Tetrazolo[1,5-a]azepine, 6,7,8,9-tetrahydro-"
+  },
+  {
+    "ID": 50,
+       "CASRN": "55-10-7",
+    "CASREGNO": 55107,
+    "ChemName": "Benzeneacetic acid, .alpha.,4-dihydroxy-3-methoxy-"
+  },
+  {
+    "ID": 51,
+      "CASRN": "55-18-5",
+    "CASREGNO": 55185,
+    "ChemName": "Ethanamine, N-ethyl-N-nitroso-"
+  },
+  {
+    "ID": 52,
+       "CASRN": "55-21-0",
+    "CASREGNO": 55210,
+    "ChemName": "Benzamide"
+  },
+  {
+    "ID": 53,
+       "CASRN": "55-22-1",
+    "CASREGNO": 55221,
+    "ChemName": "4-Pyridinecarboxylic acid"
+  },
+  {
+    "ID": 54,
+       "CASRN": "55-55-0",
+    "CASREGNO": 55550,
+    "ChemName": "Phenol, 4-(methylamino)-, sulfate (2:1)"
+  },
+  {
+    "ID": 55,
+       "CASRN": "55-63-0",
+    "CASREGNO": 55630,
+    "ChemName": "1,2,3-Propanetriol, 1,2,3-trinitrate"
+  },
+  {
+    "ID": 56,
+       "CASRN": "55-68-5",
+    "CASREGNO": 55685,
+    "ChemName": "Mercury, (nitrato-.kappa.O)phenyl-"
+  },
+  {
+    "ID": 57,
+       "CASRN": "55-81-2",
+    "CASREGNO": 55812,
+    "ChemName": "Benzeneethanamine, 4-methoxy-"
+  },
+  {
+    "ID": 58,
+       "CASRN": "55-91-4",
+    "CASREGNO": 55914,
+    "ChemName": "Phosphorofluoridic acid, bis(1-methylethyl) ester"
+  },
+  {
+    "ID": 59,
+      "CASRN": "56-04-2",
+    "CASREGNO": 56042,
+    "ChemName": "4(1H)-Pyrimidinone, 2,3-dihydro-6-methyl-2-thioxo-"
+  },
+  {
+    "ID": 60,
+       "CASRN": "56-05-3",
+    "CASREGNO": 56053,
+    "ChemName": "2-Pyrimidinamine, 4,6-dichloro-"
+  },
+  {
+    "ID": 61,
+       "CASRN": "56-06-4",
+    "CASREGNO": 56064,
+    "ChemName": "4(3H)-Pyrimidinone, 2,6-diamino-"
+  },
+  {
+    "ID": 62,
+       "CASRN": "56-09-7",
+    "CASREGNO": 56097,
+    "ChemName": "4(3H)-Pyrimidinone, 2-amino-6-hydroxy-"
+  },
+  {
+    "ID": 63,
+       "CASRN": "56-12-2",
+    "CASREGNO": 56122,
+    "ChemName": "Butanoic acid, 4-amino-"
+  },
+  {
+    "ID": 64,
+       "CASRN": "56-17-7",
+    "CASREGNO": 56177,
+    "ChemName": "Ethanamine, 2,2'-dithiobis-, hydrochloride (1:2)"
+  },
+  {
+    "ID": 65,
+       "CASRN": "56-18-8",
+    "CASREGNO": 56188,
+    "ChemName": "1,3-Propanediamine, N1-(3-aminopropyl)-"
+  },
+  {
+    "ID": 66,
+       "CASRN": "56-23-5",
+    "CASREGNO": 56235,
+    "ChemName": "Methane, tetrachloro-"
+  },
+  {
+    "ID": 67,
+       "CASRN": "56-33-7",
+    "CASREGNO": 56337,
+    "ChemName": "Disiloxane, 1,1,3,3-tetramethyl-1,3-diphenyl-"
+  },
+  {
+    "ID": 68,
+       "CASRN": "56-34-8",
+    "CASREGNO": 56348,
+    "ChemName": "Ethanaminium, N,N,N-triethyl-, chloride (1:1)"
+  },
+  {
+    "ID": 69,
+       "CASRN": "56-35-9",
+    "CASREGNO": 56359,
+    "ChemName": "Distannoxane, 1,1,1,3,3,3-hexabutyl-"
+  },
+  {
+    "ID": 70,
+       "CASRN": "56-37-1",
+    "CASREGNO": 56371,
+    "ChemName": "Benzenemethanaminium, N,N,N-triethyl-, chloride (1:1)"
+  },
+  {
+    "ID": 71,
+       "CASRN": "56-40-6",
+    "CASREGNO": 56406,
+    "ChemName": "Glycine"
+  },
+  {
+    "ID": 72,
+       "CASRN": "56-41-7",
+    "CASREGNO": 56417,
+    "ChemName": "L-Alanine"
+  },
+  {
+    "ID": 73,
+       "CASRN": "56-45-1",
+    "CASREGNO": 56451,
+    "ChemName": "L-Serine"
+  },
+  {
+    "ID": 74,
+       "CASRN": "56-49-5",
+    "CASREGNO": 56495,
+    "ChemName": "Benz[j]aceanthrylene, 1,2-dihydro-3-methyl-"
+  },
+  {
+    "ID": 75,
+       "CASRN": "56-53-1",
+    "CASREGNO": 56531,
+    "ChemName": "Phenol, 4,4'-[(1E)-1,2-diethyl-1,2-ethenediyl]bis-"
+  },
+  {
+    "ID": 76,
+       "CASRN": "56-54-2",
+    "CASREGNO": 56542,
+    "ChemName": "Cinchonan-9-ol, 6'-methoxy-, (9S)-"
+  },
+  {
+    "ID": 77,
+       "CASRN": "56-55-3",
+    "CASREGNO": 56553,
+    "ChemName": "Benz[a]anthracene"
+  },
+  {
+    "ID": 78,
+       "CASRN": "56-65-5",
+    "CASREGNO": 56655,
+    "ChemName": "Adenosine 5'-(tetrahydrogen triphosphate)"
+  },
+  {
+    "ID": 79,
+       "CASRN": "56-69-9",
+    "CASREGNO": 56699,
+    "ChemName": "Tryptophan, 5-hydroxy-"
+  },
+  {
+    "ID": 80,
+       "CASRN": "56-73-5",
+    "CASREGNO": 56735,
+    "ChemName": "D-Glucose, 6-(dihydrogen phosphate)"
+  },
+  {
+    "ID": 81,
+       "CASRN": "56-81-5",
+    "CASREGNO": 56815,
+    "ChemName": "1,2,3-Propanetriol"
+  },
+  {
+    "ID": 82,
+       "CASRN": "56-82-6",
+    "CASREGNO": 56826,
+    "ChemName": "Propanal, 2,3-dihydroxy-"
+  },
+  {
+    "ID": 83,
+       "CASRN": "56-84-8",
+    "CASREGNO": 56848,
+    "ChemName": "L-Aspartic acid"
+  },
+  {
+    "ID": 84,
+       "CASRN": "56-85-9",
+    "CASREGNO": 56859,
+    "ChemName": "L-Glutamine"
+  },
+  {
+    "ID": 85,
+       "CASRN": "56-86-0",
+    "CASREGNO": 56860,
+    "ChemName": "L-Glutamic acid"
+  },
+  {
+    "ID": 86,
+       "CASRN": "56-87-1",
+    "CASREGNO": 56871,
+    "ChemName": "L-Lysine"
+  },
+  {
+    "ID": 87,
+       "CASRN": "56-89-3",
+    "CASREGNO": 56893,
+    "ChemName": "L-Cystine"
+  },
+  {
+    "ID": 88,
+       "CASRN": "56-92-8",
+    "CASREGNO": 56928,
+    "ChemName": "1H-Imidazole-5-ethanamine, hydrochloride (1:2)"
+  },
+  {
+    "ID": 89,
+       "CASRN": "56-93-9",
+    "CASREGNO": 56939,
+    "ChemName": "Benzenemethanaminium, N,N,N-trimethyl-, chloride (1:1)"
+  },
+  {
+    "ID": 90,
+       "CASRN": "57-00-1",
+    "CASREGNO": 57001,
+    "ChemName": "Glycine, N-(aminoiminomethyl)-N-methyl-"
+  },
+  {
+    "ID": 91,
+       "CASRN": "57-03-4",
+    "CASREGNO": 57034,
+    "ChemName": "1,2,3-Propanetriol, 1-(dihydrogen phosphate)"
+  },
+  {
+    "ID": 92,
+       "CASRN": "57-04-5",
+    "CASREGNO": 57045,
+    "ChemName": "2-Propanone, 1-hydroxy-3-(phosphonooxy)-"
+  },
+  {
+    "ID": 93,
+       "CASRN": "57-06-7",
+    "CASREGNO": 57067,
+    "ChemName": "1-Propene, 3-isothiocyanato-"
+  },
+  {
+    "ID": 94,
+       "CASRN": "57-09-0",
+    "CASREGNO": 57090,
+    "ChemName": "1-Hexadecanaminium, N,N,N-trimethyl-, bromide (1:1)"
+  },
+  {
+    "ID": 95,
+       "CASRN": "57-10-3",
+    "CASREGNO": 57103,
+    "ChemName": "Hexadecanoic acid"
+  },
+  {
+    "ID": 96,
+       "CASRN": "57-11-4",
+    "CASREGNO": 57114,
+    "ChemName": "Octadecanoic acid"
+  },
+  {
+    "ID": 97,
+       "CASRN": "57-12-5",
+    "CASREGNO": 57125,
+    "ChemName": "Cyanide"
+  },
+  {
+    "ID": 98,
+       "CASRN": "57-13-6",
+    "CASREGNO": 57136,
+    "ChemName": "Urea"
+  },
+  {
+    "ID": 99,
+       "CASRN": "57-14-7",
+    "CASREGNO": 57147,
+    "ChemName": "Hydrazine, 1,1-dimethyl-"
+  },
+  {
+    "ID": 100,
+       "CASRN": "57-15-8",
+    "CASREGNO": 57158,
+    "ChemName": "2-Propanol, 1,1,1-trichloro-2-methyl-"
+  },
+{
+    "ID": 101,
+       "CASRN": "58-63-9",
+    "CASREGNO": 58639,
+    "ChemName": "Inosine"
+  }
+]

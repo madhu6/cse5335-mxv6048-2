@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<% include ../partials/header.ejs %>
+<title>Web Application - Project 2</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <style>
+.tab{
+   background-color:lightcoral;
+border-collapse:collapse;
+    width: 50%;
+    margin-left:auto;
+    margin-right:auto;
+     display: none;
+ } 
+th,td{
+    border-bottom: 2px groove white;
+    padding: 8px;
+    text-align: center;
+}
+tr:hover{
+background-color:#4B088A;
+}
+ html, body {
+        height: 100%;
+}
+    </style> 
+    
+</head>
+
+<body align = "center">
+  <% include ../partials/nav.ejs %>
+<div class="jumbotron text-center">
+  <div class="container">
+<h3> TSCA Inventory - Industry Chemicals</h3>
+         &nbsp;
+
+<table id="tablee" align="center">
+    
+    <tr>
+        <th>ID</th>
+        <th>CASREGNO</th>
+        <th>CASRN</th>
+        <th>CHEMICAL NAME</th>
+  </tr>    
+</table>
+    
+    
+<script type="text/javascript">
+    var th,tr,td1,td2,td3,td4;
+      
+    $(document).ready(function(){
+
+        localStorage.setItem('p','1')
+
+        var func=setInterval(funCall,500);
+    
+        function funCall(){  
+           var counter=localStorage.getItem('p'); 
+
+            var count=parseInt(counter);
+
+         if(count == 101) {
+
+                  clearInterval(func);
+             } 
+
+               $.get("/getItems/"+count, function(data){
+
+                tr="<tr> ";
+                td1="<td> "+data["ID"]+"</div></td>";
+                td2="<td>"+data["CASREGNO"]+"</div></td>";
+                td3="<td>"+data["CASRN"]+"</div></td>";
+                td4="<td>"+data["ChemName"]+"</div></td>";
+                $("#tablee").append(tr+td1+td2+td3+td4);
+                   
+                       
+               $("#tablee tr").fadeIn(300);
+                $("table#tablee tr:nth-child(22)").addClass('tab').fadeOut(300);
+                var rowCount = $('#tablee tr').length;  
+                console.log(rowCount);
+               
+                if(rowCount>21)
+                {
+                    removeFirstRowAndAppendNewItem(data)
+
+                }
+
+                function removeFirstRowAndAppendNewItem(data)
+                {
+                  console.log("in callback"); // to confirm we have reached here
+                  $("table#tablee tr:nth-child(2)").remove();
+                }   
+
+               });
+
+
+            counter=parseInt(counter);
+            counter+=1;
+            counter=counter.toString();
+
+
+            localStorage.setItem('p',counter);
+
+        }
+        });
+
+</script>
+</div></div>
+</body>
+</html>
